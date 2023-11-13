@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://downtownph.com/wp-content/uploads/2023/11/1.jpg</image>
+    <url>https://downtownph.com/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>2</number>
+    <image>https://downtownph.com/wp-content/uploads/2023/11/2.jpg</image>
+    <url>https://downtownph.com/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>3</number>
+    <image>https://downtownph.com/wp-content/uploads/2023/11/3.jpg</image>
+    <url>https://downtownph.com/</url>
+    <redirect>n</redirect>
+  </panel>
+
+</rotator>
